@@ -1,0 +1,77 @@
+<html>
+<head>
+    <title>Cartilla de Prestadores - AVERA Medicina Privada</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        h2 {
+            color: #2C3E50;
+            border-bottom: 2px solid #2C3E50;
+            padding-bottom: 5px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            background-color: #fff;
+        }
+        th, td {
+            padding: 10px;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+        th {
+            background-color: #2C3E50;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <h1>Cartilla de Prestadores Médicos - AVERA Medicina Privada</h1>
+    
+    <h2>Bioquímica</h2>
+    <table>
+        <tr>
+            <th>Nombre del Prestador</th>
+            <th>Dirección</th>
+            <th>Teléfono</th>
+            <th>Localidad</th>
+            <th>Servicios Adicionales</th>
+        </tr>
+        <tr>
+            <td>LOVAGLIO ARMANDO</td>
+            <td>RIVADAVIA 842</td>
+            <td>4222288</td>
+            <td>SALTA</td>
+            <td>Sin servicios adicionales</td>
+        </tr>
+        <tr>
+            <td>HEREDIA MARIO A.</td>
+            <td>SAN JUAN 682</td>
+            <td>4212096</td>
+            <td>SALTA</td>
+            <td>Sin servicios adicionales</td>
+        </tr>
+        <tr>
+            <td>GUARDIOLA MARIA CRISTINA</td>
+            <td>STGO. DEL ESTERO 527</td>
+            <td>4223600</td>
+            <td>SALTA</td>
+            <td>Sin servicios adicionales</td>
+        </tr>
+        <tr>
+            <td>CAMPO ERNESTO R.</td>
+            <td>BELGRANO 910</td>
+            <td>4213446</td>
+            <td>SALTA</td>
+            <td>Sin servicios adicionales</td>
+        </tr>
+    </table>
+
+    <!-- Add other specialties similarly -->
+</body>
+</html>
